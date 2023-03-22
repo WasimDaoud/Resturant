@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Resturant/static/css/main.8c2e91dc.css",
+    "main.js": "/Resturant/static/js/main.66dc3f66.js",
+    "static/media/BEEF3.png": "/Resturant/static/media/BEEF3.15a5144a9eb79af14cde.png",
+    "static/media/beef4.png": "/Resturant/static/media/beef4.f888cd05b905daedc75f.png",
+    "static/media/burger.png": "/Resturant/static/media/burger.05d2c7c8aa6f4ad4a3eb.png",
+    "static/media/Chicken.png": "/Resturant/static/media/Chicken.f0eee55787cb927cd786.png",
+    "static/media/sweet.png": "/Resturant/static/media/sweet.3bd616c5cb656a4905a0.png",
+    "static/media/drinks.png": "/Resturant/static/media/drinks.d92d74fc9f43f69d8d67.png",
+    "static/media/seafood-main.png": "/Resturant/static/media/seafood-main.fc5394c547cb9d651eeb.png",
+    "static/media/hot.png": "/Resturant/static/media/hot.199e5d823f9f4f121784.png",
+    "static/media/Vegan-Food.png": "/Resturant/static/media/Vegan-Food.13cd0ff32669c97ffbbb.png",
+    "static/media/Milkshake-PNG.png": "/Resturant/static/media/Milkshake-PNG.6729d159af382bf4b2d3.png",
+    "static/media/cold.png": "/Resturant/static/media/cold.8c8706c60e2cde571cde.png",
+    "static/media/TT-logo.png": "/Resturant/static/media/TT-logo.6edcbb09207c34bd58de.png",
+    "static/media/fresh.png": "/Resturant/static/media/fresh.e4ad99f77094b15ef8cd.png",
+    "index.html": "/Resturant/index.html",
+    "main.8c2e91dc.css.map": "/Resturant/static/css/main.8c2e91dc.css.map",
+    "main.66dc3f66.js.map": "/Resturant/static/js/main.66dc3f66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c2e91dc.css",
+    "static/js/main.66dc3f66.js"
+  ]
+}
