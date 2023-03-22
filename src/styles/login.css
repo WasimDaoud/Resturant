@@ -1,0 +1,19 @@
+.login-page,
+.login-section {
+  background-color: var(--main-color);
+}
+
+.login-h1,
+.login-input {
+  border-color: var(--secondary-color);
+}
+
+.login-h1 {
+  color: var(--secondary-color);
+}
+
+.login-btn {
+  border-color: var(--secondary-color);
+  color: var(--secondary-color);
+}
+

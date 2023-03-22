@@ -1,0 +1,39 @@
+.order-page {
+  background-color: var(--main-color);
+}
+
+.table-header-tr {
+  color: var(--secondary-color);
+  border-bottom: 2px solid var(--secondary-color);
+}
+
+.table-body-tr {
+  color: white;
+  border-bottom: 2px solid var(--secondary-color);
+}
+.table-body-tr:hover {
+  background-color: var(--secondary-color);
+}
+
+/*****  order  ******/
+
+.order {
+  color: var(--secondary-color);
+}
+
+.total-cost-hr {
+  border-top: 2px solid var(--secondary-color);
+}
+
+.palce-order-link {
+  background-color: transparent;
+  border: 1px solid var(--secondary-color);
+  border-radius: 5px;
+  padding: 3px 7px;
+  cursor: pointer;
+}
+.palce-order-link:hover {
+  background-color: var(--secondary-color);
+  color: white;
+  transition: all 0.5s linear;
+}
