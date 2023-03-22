@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Resturant/static/css/main.8c2e91dc.css",
-    "main.js": "/Resturant/static/js/main.66dc3f66.js",
+    "main.css": "/Resturant/static/css/main.406fda9b.css",
+    "main.js": "/Resturant/static/js/main.450a7a65.js",
     "static/media/BEEF3.png": "/Resturant/static/media/BEEF3.15a5144a9eb79af14cde.png",
     "static/media/beef4.png": "/Resturant/static/media/beef4.f888cd05b905daedc75f.png",
     "static/media/burger.png": "/Resturant/static/media/burger.05d2c7c8aa6f4ad4a3eb.png",
@@ -16,11 +16,11 @@
     "static/media/TT-logo.png": "/Resturant/static/media/TT-logo.6edcbb09207c34bd58de.png",
     "static/media/fresh.png": "/Resturant/static/media/fresh.e4ad99f77094b15ef8cd.png",
     "index.html": "/Resturant/index.html",
-    "main.8c2e91dc.css.map": "/Resturant/static/css/main.8c2e91dc.css.map",
-    "main.66dc3f66.js.map": "/Resturant/static/js/main.66dc3f66.js.map"
+    "main.406fda9b.css.map": "/Resturant/static/css/main.406fda9b.css.map",
+    "main.450a7a65.js.map": "/Resturant/static/js/main.450a7a65.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c2e91dc.css",
-    "static/js/main.66dc3f66.js"
+    "static/css/main.406fda9b.css",
+    "static/js/main.450a7a65.js"
   ]
 }
