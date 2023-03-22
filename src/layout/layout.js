@@ -21,8 +21,8 @@ const Layout = () => {
     <>
       <Header />
       <Routes>
-        <Route path="/home" element={<Home />}></Route>
         <Route path="/" element={<Home />}></Route>
+        <Route path="/home" element={<Home />}></Route>
         <Route path="/drinks" element={<Drinks />}></Route>
         <Route path="/food" element={<Food />}></Route>
         <Route path="/order" element={<Order />}></Route>
